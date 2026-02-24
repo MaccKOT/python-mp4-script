@@ -1,0 +1,9 @@
+[project]
+name = "ai-songs-generator"
+version = "0.1.0"
+description = "Generate mp4 video from mp3 and image"
+readme = "README.md"
+requires-python = ">=3.15"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+]
